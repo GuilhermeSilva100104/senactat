@@ -1,20 +1,10 @@
 #!/bin/bash
-#Autor: Robson Vaamonde
-#Procedimentos em TI: http://procedimentosemti.com.br
-#Bora para Prática: http://boraparapratica.com.br
-#Robson Vaamonde: http://vaamonde.com.br
-#Facebook Procedimentos em TI: https://www.facebook.com/ProcedimentosEmTi
-#Facebook Bora para Prática: https://www.facebook.com/BoraParaPratica
-#Instagram Procedimentos em TI: https://www.instagram.com/procedimentoem
-#YouTUBE Bora Para Prática: https://www.youtube.com/boraparapratica
-#LinkedIn Robson Vaamonde: https://www.linkedin.com/in/robson-vaamonde-0b029028/
-#Data de criação: 23/07/2021
-#Data de atualização: 05/11/2021
+#Autor: Guilherme Morgado
+#Data de criação: 04/06/2022
+#Data de atualização: 04/06/2022
 #Versão: 0.04
 #Testado e homologado no Linux Mint 20.x e VSCode 1.58.x
 
-#Link do vídeo de apoio:
-https://www.youtube.com/watch?v=faS3gZgKE-A
 
 O Visual Studio Code é um editor de código-fonte desenvolvido pela Microsoft para Windows, 
 Linux e macOS. Ele inclui suporte para depuração, controle de versionamento Git incorporado, 
